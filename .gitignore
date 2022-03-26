@@ -1,0 +1,9 @@
+
+chapter3/FashionMNIST/raw/t10k-images-idx3-ubyte
+chapter3/FashionMNIST/raw/t10k-labels-idx1-ubyte
+chapter3/FashionMNIST/raw/train-labels-idx1-ubyte
+chapter3/FashionMNIST/raw/train-images-idx3-ubyte
+chapter3/t10k-images-idx3-ubyte.gz
+chapter3/train-images-idx3-ubyte.gz
+chapter3/t10k-labels-idx1-ubyte.gz
+chapter3/train-labels-idx1-ubyte.gz
