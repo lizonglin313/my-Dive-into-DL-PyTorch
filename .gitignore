@@ -7,3 +7,8 @@ chapter3/t10k-images-idx3-ubyte.gz
 chapter3/train-images-idx3-ubyte.gz
 chapter3/t10k-labels-idx1-ubyte.gz
 chapter3/train-labels-idx1-ubyte.gz
+data/kaggle/house/train.csv
+data/kaggle/house/test.csv
+data/kaggle/house/sample_submission.csv
+data/kaggle/house/data_description.txt
+chapter3/submission.csv
